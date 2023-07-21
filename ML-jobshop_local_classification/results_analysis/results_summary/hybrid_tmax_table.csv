@@ -1,0 +1,11 @@
+Obj,Size,Stats,Default,MinDom,LowMin,BranGP-H,ClasGP-H,SVM-H,MLP-H,OptSol-H
+\multirow{10}{*}{tmax},\multirow{2}{*}{$6\times6$},mean,5.61e+02,6.84e+02,3.97e+02,\bf{2.29e+02},\bf{2.37e+02},\bf{2.28e+02},\bf{2.28e+02},2.03e+02
+spaceX,spaceX,std,4.02e+02,5.11e+02,3.60e+02,1.92e+02,2.32e+02,2.23e+02,2.31e+02,2.18e+02
+spaceX,\multirow{2}{*}{$8\times8$},mean,2.39e+03,2.76e+03,1.71e+03,\bf{1.03e+03},\bf{9.88e+02},\bf{9.59e+02},\bf{9.53e+02},7.64e+02
+spaceX,spaceX,std,1.13e+03,1.33e+03,1.18e+03,7.87e+02,8.04e+02,8.21e+02,8.50e+02,6.20e+02
+spaceX,\multirow{2}{*}{$10\times10$},mean,8.12e+03,8.77e+03,5.12e+03,3.33e+03,\bf{2.73e+03},\bf{3.02e+03},\bf{2.93e+03},2.57e+03
+spaceX,spaceX,std,3.19e+03,3.67e+03,2.40e+03,1.80e+03,1.54e+03,1.89e+03,1.83e+03,1.67e+03
+spaceX,\multirow{2}{*}{$12\times12$},mean,1.87e+04,2.18e+04,1.35e+04,8.01e+03,\bf{7.29e+03},\bf{7.23e+03},\bf{6.82e+03},6.73e+03
+spaceX,spaceX,std,6.20e+03,8.01e+03,5.94e+03,4.11e+03,3.75e+03,3.32e+03,3.58e+03,3.85e+03
+spaceX,\multirow{2}{*}{$14\times14$},mean,4.91e+04,5.20e+04,3.75e+04,\bf{2.40e+04},\bf{2.34e+04},\bf{2.41e+04},\bf{2.36e+04},2.35e+04
+spaceX,spaceX,std,2.18e+04,2.31e+04,2.69e+04,1.77e+04,1.61e+04,1.96e+04,2.04e+04,2.08e+04

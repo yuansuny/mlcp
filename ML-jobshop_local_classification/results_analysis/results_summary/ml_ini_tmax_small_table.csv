@@ -1,0 +1,4 @@
+BranGP,ClasGP,LR,SVM,MLP,OptStart
+0.502,0.529,0.532,0.532,0.532,\bf{0.544}
+0.286,0.272,0.277,0.277,0.270,0.269
+\emph{nan},\emph{3e-02},\emph{2e-02},\emph{1e-02},\emph{1e-02},\emph{5e-04}

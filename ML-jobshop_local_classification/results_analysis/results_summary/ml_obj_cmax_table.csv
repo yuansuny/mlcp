@@ -1,0 +1,4 @@
+MinDom,LowMin,BranGP-H,GP-H,MLP-H,SVM-H
+0.044,0.080,0.179,\bf{0.180},0.158,0.160
+0.042,0.056,0.105,0.107,0.091,0.092
+\emph{nan},\emph{6e-66},\emph{2e-147},\emph{1e-145},\emph{1e-149},\emph{8e-149}
